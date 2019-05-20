@@ -62,6 +62,55 @@ tools:
   owner: bgruening
   tool_panel_section_label: Assembly
 
+- name: nanoplot
+  owner: iuc
+  tool_panel_section_label: Graph/Display Data
+
+- name: suite_poretools
+  owner: iuc
+  tool_panel_section_label: FASTA/FASTQ manipulation
+
+- name: bandage
+  owner: iuc
+  tool_panel_section_label: Graph/Display Data
+
+- name: porechop
+  owner: iuc
+  tool_panel_section_label: FASTA/FASTQ manipulation
+
+- name: filtlong
+  owner: iuc
+  tool_panel_section_label: FASTA/FASTQ manipulation
+
+- name: minimap2
+  owner: iuc
+  tool_panel_section_label: Mapping
+
+- name: rnaspades
+  owner: iuc
+  tool_panel_section_label: Assembly
+
+- name: unicycler
+  owner: iuc
+  tool_panel_section_label: Assembly
+
+- name: pilon
+  owner: iuc
+  tool_panel_section_label: Assembly
+  
+- name: plasflow
+  owner: iuc
+  tool_panel_section_label: Metagenomic analyses
+
+- name: staramr
+  owner: nml
+  tool_panel_section_label: Metagenomic analyses
+
+- name: kraken2
+  owner: iuc
+  tool_panel_section_label: Metagenomic analyses
+
+
 # - name: graphmap_overlap
 #   owner: bgruening
 #   tool_panel_section_label: Mapping
